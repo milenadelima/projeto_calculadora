@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  outline: 0;
+  padding: 0;
+}
+body {
+  background: #cfcfcf;
+  font-size: 16px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+  
