@@ -24,4 +24,21 @@ html,body{
   padding: 10px, 20px;
   width: 252px; 
   box-shadow: 0 1px 2px rgba(0,0,0,0.15);
+} 
+.display{
+   margin: 50px 0 60px;
+  text-aling: right; 
+}
+.display input {
+  background: transparent; 
+  color: #f2f2f2
+  font-size: 40px;
+  font-weight: 400;
+  text-align: right;
+  width:100%;
+}
+.linha {
+  display: grid;
+  grid-template-columns: repeat (4, 25%);
+  margin-bottom: 10px;
 }
